@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^cd f:\\\\Documents\\\\Development\\\\dandelions3\\\\src ; python app\\.py$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
